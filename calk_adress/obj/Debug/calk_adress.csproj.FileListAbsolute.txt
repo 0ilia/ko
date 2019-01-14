@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\KSIS\calk_adress\calk_adress\bin\Debug\calk_adress.exe.config
+C:\Users\Admin\Desktop\KSIS\calk_adress\calk_adress\bin\Debug\calk_adress.exe
+C:\Users\Admin\Desktop\KSIS\calk_adress\calk_adress\bin\Debug\calk_adress.pdb
+C:\Users\Admin\Desktop\KSIS\calk_adress\calk_adress\obj\Debug\calk_adress.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\KSIS\calk_adress\calk_adress\obj\Debug\calk_adress.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\KSIS\calk_adress\calk_adress\obj\Debug\calk_adress.exe
+C:\Users\Admin\Desktop\KSIS\calk_adress\calk_adress\obj\Debug\calk_adress.pdb
+C:\Users\Admin\Desktop\лабы\KSIS\calk_adress\calk_adress\bin\Debug\calk_adress.exe.config
+C:\Users\Admin\Desktop\лабы\KSIS\calk_adress\calk_adress\bin\Debug\calk_adress.exe
+C:\Users\Admin\Desktop\лабы\KSIS\calk_adress\calk_adress\bin\Debug\calk_adress.pdb
+C:\Users\Admin\Desktop\лабы\KSIS\calk_adress\calk_adress\obj\Debug\calk_adress.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\лабы\KSIS\calk_adress\calk_adress\obj\Debug\calk_adress.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\лабы\KSIS\calk_adress\calk_adress\obj\Debug\calk_adress.exe
+C:\Users\Admin\Desktop\лабы\KSIS\calk_adress\calk_adress\obj\Debug\calk_adress.pdb
